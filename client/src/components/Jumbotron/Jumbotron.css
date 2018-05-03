@@ -1,0 +1,9 @@
+.jumbotron{
+ 	background-image: url("../../images/pennyStackJumbotron.png");
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-size: 40% 100%; 
+ 	background-color: white;
+ 	clear: both;
+	height: 400px;
+}

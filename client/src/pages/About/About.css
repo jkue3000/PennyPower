@@ -1,0 +1,37 @@
+.firstCol{
+	margin-bottom: 150px;
+}
+
+
+p{
+	color: black;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.secondContentContainer{
+	margin: 40px auto;
+	width: 75%;
+	background-color: white;
+	border-radius: 15px;
+	padding: 60px;
+}
+
+.socialProof{
+	text-align: center;
+}
+
+.gifyCss{
+	margin-bottom: 20px;
+
+}
+
+.trustPic{
+	margin:30px 120px;
+	width: 200px;
+	height: 200px;
+}
+
+.totalVS{
+	color: red;
+}
